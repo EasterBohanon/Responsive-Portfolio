@@ -328,6 +328,9 @@ input[type=submit] {
      background-image: url("../images/leaves.png");
     }
      
+    .me{
+        max-width: 100%;
+    }
 }
 
 
